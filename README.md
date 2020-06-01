@@ -1,2 +1,2 @@
 # Contador
-Exercício de para aperfeiçoamento em javascript
+Exercício  para aperfeiçoamento em javascript
