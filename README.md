@@ -1,3 +1,4 @@
 # Contador
 Exercício  para aperfeiçoamento em javascript
-ultima atualização 29/08/2023
+ultima atualização 15:45
+
